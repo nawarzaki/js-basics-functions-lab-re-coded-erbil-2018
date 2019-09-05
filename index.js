@@ -1,3 +1,3 @@
 function distanceFromHqInBlocks(b) {
-  returns (b - 43)
+  returns b - 43
 }
